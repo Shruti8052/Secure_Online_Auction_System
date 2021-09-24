@@ -1,0 +1,18 @@
+
+.main{
+    margin: 50px 50px;
+    height: auto;
+    background-color: #fff;
+    padding-bottom: 20px;    
+    
+}
+
+.addItems{
+    width:70%;
+    margin: 50px 100px;
+    padding-left: 300px;
+}
+
+.col-form-label-lg {
+    width: 100%;
+}
